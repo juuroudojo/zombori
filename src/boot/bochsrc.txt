@@ -1,5 +1,0 @@
-floppya: 1_44=loading.bin, status=inserted
-boot: a
-log: bochs.log
-vga: extension=x
-memory: guest=512, host=512
